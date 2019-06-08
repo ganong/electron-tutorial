@@ -1,0 +1,14 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": "https://electronjs.org/docs/tutorial/first-app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "James Ganong",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^5.0.3"
+  }
+}
